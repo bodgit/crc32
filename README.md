@@ -1,7 +1,10 @@
-[![Build Status](https://travis-ci.com/bodgit/crc32.svg?branch=master)](https://travis-ci.com/bodgit/crc32)
-[![Coverage Status](https://coveralls.io/repos/github/bodgit/crc32/badge.svg?branch=master)](https://coveralls.io/github/bodgit/crc32?branch=master)
+[![GitHub release](https://img.shields.io/github/v/release/bodgit/crc32)](https://github.com/bodgit/crc32/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/bodgit/crc32/build.yml?branch=main)](https://github.com/bodgit/crc32/actions?query=workflow%3ABuild)
+[![Coverage Status](https://coveralls.io/repos/github/bodgit/crc32/badge.svg?branch=main)](https://coveralls.io/github/bodgit/crc32?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bodgit/crc32)](https://goreportcard.com/report/github.com/bodgit/crc32)
 [![GoDoc](https://godoc.org/github.com/bodgit/crc32?status.svg)](https://godoc.org/github.com/bodgit/crc32)
+![Go version](https://img.shields.io/badge/Go-1.20-brightgreen.svg)
+![Go version](https://img.shields.io/badge/Go-1.19-brightgreen.svg)
 
 crc32
 =====
